@@ -1,1 +1,1 @@
-# coursera-sles-speech
+# coursera-sales-speech
